@@ -1,5 +1,5 @@
 # README.md
-👋 Hi, I'm Francini — a Junior QA Engineer with a background in graphic design.
+👋 Hi, I'm Francini, a Junior QA Engineer with a background in graphic design.
 🎓 Graduate of TripleTen's QA Engineering program.
 🐞 Passionate about finding bugs, improving user experience, and making software more reliable.
 🎨 I bring a creative eye to every project, combining design thinking with technical precision.
